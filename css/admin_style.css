@@ -220,7 +220,7 @@ section{
 }
 
 .header .flex .navbar a:hover{
-   color:var(--orange);
+   color:var(--green);
 }
 
 .header .flex .icons > *{
